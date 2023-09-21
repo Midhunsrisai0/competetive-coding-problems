@@ -1,7 +1,7 @@
 import java.util.LinkedHashMap;
 import java.util.TreeSet;
 
-class Main {
+class KTimesRep {
     public static void main(String[] args) {
         TreeSet<Integer> ts = new TreeSet<Integer>();
         int nums[] = { 3, 1, 3, 1, 0, 2, 3, 2, 2, 1,1 };

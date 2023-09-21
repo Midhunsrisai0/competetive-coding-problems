@@ -21,6 +21,7 @@ class Main {
         }
         int x = ts.first();
         System.out.println(x);
+        System.out.println("Thank you!");
 
     }
 }
